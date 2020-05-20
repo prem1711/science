@@ -6,6 +6,13 @@ background-image: url(back.jpg);
 background-attachment: fixed;
 text-shadow: 5px 5px 10px black;
 }
+footer{
+background-color: rgba(0,0,0,.8);
+margin: 0px;
+padding: 10px 20px;
+color: white;
+font-size: 10px;
+}
 .top {text-align: center;}
 h1 {Color: #8845f4;font-size: 50px;}
 a{text-decoration: none;font-style: italic;color: gray;font-family: fantasy;}
