@@ -1,0 +1,19 @@
+body {
+color: gray;
+font-size: 20px;
+font-family: emoji;
+background-image: url(back.jpg);
+background-attachment: fixed;
+text-shadow: 5px 5px 10px black;
+}
+.top {text-align: center;}
+h1 {Color: #8845f4;font-size: 50px;}
+a{text-decoration: none;font-style: italic;color: gray;font-family: fantasy;}
+.act{
+background-color: rgba(0,0,0,.5);;
+border-radius: 30px;
+padding:30px 50px 30px 100px;
+margin: 150px 20px;
+}
+li {margin-top: 35px;}
+h3{color: rgba(136,69,244,.7);font-size: 25px;}
